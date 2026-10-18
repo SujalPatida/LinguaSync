@@ -1,0 +1,32 @@
+# Python virtual environments
+venv/
+env/
+.venv/
+ENV/
+
+# Byte-compiled files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Audio and temporary files
+*.mp3
+*.wav
+LinguaSync_History_*.txt
+
+# macOS system files
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+
+# Editor and IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Build artifacts
+build/
+dist/
+*.egg-info/
